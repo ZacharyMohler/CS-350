@@ -3,7 +3,7 @@
 ## Summarize the project and what problem it was solving.
 In this repository there are two codebases. Both utilized Texas Instruments' Code Composer Studio, and a Texas Instruments board "TI SimpleLink Wi-Fi CC3220S"
 
-### One for a PWMLED project that displays a morse code message depending on which button was pressed.
+### One for a GPIO project that displays a morse code message depending on which button was pressed.
 This project uses a C implementation of a state machine for the logic. When run the LEDs on the board display the message "SOS" in morse code. When the button is pressed it completes the SOS message, then changes to display "OK". 
 
 ### The other is a project involving PWMLED, UART, and TIMER aspects to achieve the functionality of a thermostat. 
