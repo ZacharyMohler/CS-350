@@ -1,4 +1,6 @@
-# CS-350 (Embedded Systems)
+# Embedded Systems
+#### Key skills this project demonstrates:
+embedded C programming, state machine programming, hardware programming
 
 ## Summarize the project and what problem it was solving.
 In this repository there are two codebases. Both utilized Texas Instruments' Code Composer Studio, and a Texas Instruments board "TI SimpleLink Wi-Fi CC3220S"
